@@ -1,1 +1,113 @@
-# hake
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Kenneth C. Borbon</title>
+</head>
+<body>
+    <br>
+    <!-- header -->
+    <header>
+        <table>
+            <tr>
+                <td>
+                    <img src="https://scontent.fmnl9-3.fna.fbcdn.net/v/t1.15752-9/368149816_282132334531937_1356974368122771314_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=ae9488&_nc_eui2=AeE3zR0nd0-_53R8JYRAuTEvJwJtjaWjdHonAm2NpaN0esVQ9laBUDHZ6d1pIrubwvt5Xg0zsLaLEjeftZ66Sdnf&_nc_ohc=4GX1Rl2T1vAAX8S9z9w&_nc_ht=scontent.fmnl9-3.fna&oh=03_AdTngEOHdr3gTKW1Wy8un3zZUSuZ_WJZNbtejV2qUGlVtg&oe=65127587" alt=""width="127px">
+                </td>
+                <td>
+                    <h1>Kenneth C. Borbon</h1>
+                </td>
+            </tr>
+        </table>
+    </header>
+    <br>
+    <!-- PERSONAL DETAILS -->
+    <section>
+        <h2>PERSONAL DETAILS</h2>
+        <hr>
+        <table>
+            <tr>
+                <td>
+                    <h3>Name:</h3>
+                </td>
+                <td>
+                    <p>Kenneth C.Borbon</p>
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    <h3>Age:</h3>
+                </td>
+                <td>
+                    <p>21</p>
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    <h3>Sex:</h3>
+                </td>
+                <td>
+                    <p>Male</p>
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    <h3>Address:</h3>
+                </td>
+                <td>
+                    <p>Blk 7 lot 15 Mercury st Area 7B Fourth Estate Paranaque City</p>
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    <h3>Email:</h3>
+                </td>
+                <td>
+                    <p>Kennethborbon32@gmail.com</p>
+                </td>
+            </tr>
+        </table>
+    </section>
+    <!-- JOB OBJECTIVE -->
+    <section>
+        <h2>JOB OBJECTIVE</h2>
+        <hr>
+        <p>Simply because i want to share my skills and techniques and i want to chance my knowledge and working experience</p>
+    </section>
+     <!-- EDUCATIONAL ATTIAMENT -->
+    <section>
+        <h2>EDUCATIONAL ATTIAMENT</h2>
+        <hr>
+        <p>Pamantasan ng Lungsod ng Muntinlupa</p>
+        <p>Dr.Arcadio Santos Avenue Muntinlupa City</p>
+        <p>Muntinlupa City</p>
+        <p>2019-2020</p>
+    </section>
+     <!-- ACHIEVEMENTS -->
+     <section>
+        <h2>ACHIEVEMENTS</h2>
+        <hr>
+        <p>Top 10 Achievers</p>
+        <p>Muntinlupa City</p>
+        <p>Grade 11 and 12</p>
+    </section>
+     <!-- WORK EXPERIENCE -->
+     <section>
+        <h2>WORK EXPERIENCE</h2>
+        <hr>
+        <p>Service Crew</p>
+        <p>Fast Leaner</p>
+        <p>Organized Multi Tasking</p>
+        <p>Fast and Efficient Service Worker</p>
+    </section>
+     <!-- SKILLS/INTEREST/HOBBIES -->
+     <section>
+        <h2>SKILLS/INTEREST/HOBBIES</h2>
+        <hr>
+        <p>Team Leader</p>
+        <p>Responsible</p>
+        <p>Work Hard</p>
+        <p>Risk Taker</p>
+        <p>Basketball</p>
+    </section>
